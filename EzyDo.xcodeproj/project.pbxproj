@@ -22,6 +22,7 @@
 		F6689FE02B45640200EE8A9F /* TaskCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6689FDF2B45640200EE8A9F /* TaskCell.swift */; };
 		F6689FE22B4565C500EE8A9F /* CheckBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6689FE12B4565C500EE8A9F /* CheckBoxView.swift */; };
 		F6689FE52B45685500EE8A9F /* TaskItemExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6689FE42B45685500EE8A9F /* TaskItemExtension.swift */; };
+		F6C2297D2B45C4BB00F7CD7A /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = F6C2297C2B45C4BB00F7CD7A /* readme.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		F6689FDF2B45640200EE8A9F /* TaskCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskCell.swift; sourceTree = "<group>"; };
 		F6689FE12B4565C500EE8A9F /* CheckBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBoxView.swift; sourceTree = "<group>"; };
 		F6689FE42B45685500EE8A9F /* TaskItemExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskItemExtension.swift; sourceTree = "<group>"; };
+		F6C2297C2B45C4BB00F7CD7A /* readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 		F6689F9B2B44F89300EE8A9F = {
 			isa = PBXGroup;
 			children = (
+				F6C2297C2B45C4BB00F7CD7A /* readme.txt */,
 				F6689FA62B44F89300EE8A9F /* EzyDo */,
 				F6689FBE2B44F89500EE8A9F /* EzyDoTests */,
 				F6689FC82B44F89500EE8A9F /* EzyDoUITests */,
@@ -275,6 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F6C2297D2B45C4BB00F7CD7A /* readme.txt in Resources */,
 				F6689FAF2B44F89400EE8A9F /* Preview Assets.xcassets in Resources */,
 				F6689FAC2B44F89400EE8A9F /* Assets.xcassets in Resources */,
 			);

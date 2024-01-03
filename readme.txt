@@ -1,8 +1,1 @@
-//
-//  readme.txt
-//  EzyDo
-//
-//  Created by Opshanka Prabath on 1/3/24.
-//
-
-import Foundation
+// This project is a swift project and It's a todo app.
