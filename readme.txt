@@ -1,2 +1,2 @@
 // This project is a swift project and It's a todo app.
-./EzyDo/Assets.xcassets/AppIcon.appiconset/40.png
+EzyDo/EzyDo/Assets.xcassets/AppIcon.appiconset/40.png
